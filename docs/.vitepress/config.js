@@ -66,6 +66,7 @@ module.exports = {
         items: [
           { text: "External Exam", link: "/src/external-exam" },
           { text: "Internal Exam", link: "/src/internal-exam" },
+          { text: "Event", link: "/src/event" },
           { text: "Result", link: "/src/result" },
         ],
       },
