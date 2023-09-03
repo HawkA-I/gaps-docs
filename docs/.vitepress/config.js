@@ -11,7 +11,7 @@ module.exports = {
     sidebar: [
       {
         text: "Get Started",
-        items: [{ text: "Introdcution", link: "/src/introduction" }],
+        items: [{ text: "Introduction", link: "/src/introduction" }],
       },
       {
         text: "Student",
