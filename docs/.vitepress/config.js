@@ -6,7 +6,7 @@ module.exports = {
     nav: [
       { text: "Home", link: "/src/index.md" },
       { text: "Dashboard", link: "/" },
-      { text: "Student", link: "/" },
+      { text: "Student", link: "/src/introduction" },
     ],
     sidebar: [
       {
@@ -68,6 +68,20 @@ module.exports = {
           { text: "Internal Exam", link: "/src/internal-exam" },
           { text: "Event", link: "/src/event" },
           { text: "Result", link: "/src/result" },
+        ],
+      },
+      {
+        text: "Instructor Part",
+        collapsible: true,
+        items: [
+          {
+            text: "Edit Class",
+            link: "src/instructor/editClass",
+          },
+          {
+            text: "Add Resource",
+            link: "src/instructor/addResource",
+          },
         ],
       },
     ],
