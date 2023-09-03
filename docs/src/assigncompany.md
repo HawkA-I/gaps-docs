@@ -2,6 +2,12 @@
 
 We can assign workers to company for the interview.
 
+:::warning Pre-requisite
+
+To assign a worker to a company, you must have a company created. If not created, **_[Click Here](/src/addcompany)_** and Work Type created. If not created, **_[Click Here](/src/worktype)_**
+
+:::
+
 - Go to Company -> Assign Company
 - Fill in the required form to assign student and set the interview date.
 

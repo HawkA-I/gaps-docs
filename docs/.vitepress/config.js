@@ -60,6 +60,15 @@ module.exports = {
         collapsible: true,
         items: [{ text: "Course", link: "/src/course" }],
       },
+      {
+        text: "Event",
+        collapsible: true,
+        items: [
+          { text: "External Exam", link: "/src/external-exam" },
+          { text: "Internal Exam", link: "/src/internal-exam" },
+          { text: "Result", link: "/src/result" },
+        ],
+      },
     ],
   },
 };
