@@ -8,6 +8,9 @@ To Create a Company, follow the steps below:
 
 - Navigate to the Company Section from the Sidebar Under Company.
 - Click on the **_Add Company_** Button.
+
+![Company Add](../src/images/company/addcompany.png)
+
 - Fill in all the required fields.
 - Click on the **_Save_** Button to save the Company.
 
