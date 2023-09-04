@@ -8,7 +8,7 @@ hero:
   image:
     src: https://gaps.hawkai.online/GAPS_JAPAN.png
     alt: Adocs logo
-  tagline: Online Documentation on how to use the application
+  tagline: Online Documentation on how to use the application for GAPS
   actions:
     - theme: brand
       text: Get Started
