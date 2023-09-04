@@ -17,7 +17,7 @@ Timesheets will show the range of dates for which you want to show the days.
 
 :::details Selecting Single Date
 Selecting Single Date will show the attendance table for the selected date.
-![Selecting Single Date](../src/images/Attendance/single%20date.png)
+![Selecting Single Date](../src/images/Attendance/single-date.png)
 
 ![Selecting Single Date](../src/images/Attendance/single-date-display.png)
 

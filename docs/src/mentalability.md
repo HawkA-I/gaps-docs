@@ -10,7 +10,7 @@ You can create questions either from manually or by uploading a file.
 
 - Firstly, Download the Question Format by clicking on the "Download Question Format" button.
 
-  ![Download Question Format](../src/images/Mental%20Ability%20Questions/upload.png)
+  ![Download Question Format](../src/images/MentalAbilityQuestions/upload.png)
 
 - Fill the downloaded format with the questions and answers.
 - Upload the filled format by clicking on the "Import Questions" button.
