@@ -6,7 +6,7 @@ module.exports = {
     nav: [
       { text: "Home", link: "/src/index.md" },
       { text: "Dashboard", link: "/" },
-      { text: "Student", link: "/src/introduction" },
+      { text: "Student", link: "/src/students" },
     ],
     sidebar: [
       {

@@ -3,23 +3,13 @@
 
 
 ::: info
-Currently, with the application release version of 1.0.0 , all the features of the application may not work properly as intended. The application may throw some weird errors and present some unwanted flow. So, we will first clear out on what features the application currently supports and works as intended.
+Currently, with the application release version of 1.1.0 , all of the features of the application will work as per the business requirements.
 :::
 
 ## Current Flow of the Application that is working
 
 ::: details Click here to see the working features
-- Inquiry Form
-- Admission Form
-  - Document Upload from Student to Admin (with notifications)
-  - Document Upload from Admin side for Students
-  - Accept/Reject Documents uploaded by the students
-- University Form
-- Admin/Instructor Addition
-- Course Creation
-- Fee Structure Addition and showcase to Students
-- Event Addition
-- Message Section (Admin to admin, admin to instructor, admin to student)
+**Admin**
 :::
 
 ### Admin Panel

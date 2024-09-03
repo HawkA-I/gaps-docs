@@ -14,6 +14,7 @@ To create a new Student Group navigate to the following :
 - Click Student Groups
 - A new modal will appear.
 - Fill in all the forms
+- The total number of classes is the class that will be taken for that specific group. This is helpful in Attendance.
 
 
 

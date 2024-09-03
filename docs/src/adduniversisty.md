@@ -24,3 +24,15 @@ If the student is acccepted or rejected - the time will be displayed on the tabl
 
 ![Assign Student List](../src/images/stacep.png)
 
+### Viewing the Student Excel Spreadhsheet related to University
+
+After you have assigned the student to a Univeristy, an Excel Sheet will be generated for that specific student to the University that you are applying.
+
+To view and download the Excel Sheet, you can follow the steps :
+- Go To Student --> Student List
+- Select the student that you have just Applied, and click on "Edit".
+- Now click on "View Applied University" link.
+- From here, you can download the generated Excel sheet and review the data.
+
+
+![Download Excel Sheet](image-1.png)

@@ -13,15 +13,6 @@ Timesheets will show the range of dates for which you want to show the days.
 
 ![Timesheets](../src/images/Attendance/timesheet-display.png)
 
-:::
-
-:::details Selecting Single Date
-Selecting Single Date will show the attendance table for the selected date.
-![Selecting Single Date](../src/images/Attendance/single-date.png)
-
-![Selecting Single Date](../src/images/Attendance/single-date-display.png)
-
-:::
 
 - To mark the attendace for Specific Day, Click on the Number on the Heading of the Table.
 - This will generate the three Infos: **Day**, **isLate** (for Marking Student as Late ) and **Total Classes Attend**
@@ -30,3 +21,10 @@ Selecting Single Date will show the attendance table for the selected date.
 - To return to the All Days, Click on the Table Header.
 
 The changes will be reflected on the Student Portal as well.
+:::
+
+
+:::warning Attendance Notes
+- Admin can only view the attendance .
+- Attendance needs to be conducted by the Instructor.
+- Student can view their attendance.
