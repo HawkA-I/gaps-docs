@@ -1,0 +1,190 @@
+
+# <a name="_m1dsytywfxve"></a> Admin Dashboard
+
+**Student List**
+
+- Show following details on the table:
+  - Student id
+  - Student name
+  - Email
+  - Phone number
+  - Address
+  - Admin Assigned to
+  - Actions
+    - Admitted to system or not
+    - Assign Admin feature	
+      - Super Admin will be able to assign different admin.
+  - Document
+    - View Documents
+      - Accept Documents
+      - Reject documents with reasons
+        - If rejected by the admin, the notification should go to the student saying the following documents were rejected.
+  - Edit Information
+    - Edit student basic information
+      - Have provision of editing student email. 
+        - Send a new verification email to the updated email.
+    - View Documents
+      - View all the approved documents for the student.
+      - Admin can also upload their own documents for students from here.
+    - View Applied University
+      - See the status of student if applied to university
+        - Applied University Name
+        - Interview Date
+        - Status (Pending 🟨/ Approved  🟩/ Rejected 🔴)
+    - View Results
+      - View results of exams if given any
+        - Show all the required info like exam name, date taken, submitted and marks 
+    - View Attendance
+      - View today status (present/absent)
+      - View attendance % and total this month
+  - Edit Status
+    - Edit the status of the enrollment of current student
+  - Status
+    - Show the status of student in different phases
+      - Inquiry/Admission
+        - Admission
+        - Inquiry
+      - Exam
+        - Different exams for that internal group
+      - Interview
+        - Interview done/not done
+      - Documentation
+        - Student Documentation Uploaded
+        - Document Generation completed
+      - Immigration
+        - Immigration Apply
+      - COE
+        - COE approved
+      - VISA
+        - VISA approved
+      - Outgoing
+        - All process completed
+
+
+- Edit Documents
+  - View all the related documents for that specific documents
+  - Option to auto fill the document from the student record.
+  - View the generated document after auto-fill.
+  - Save and Preview the documents
+  - Save the document record if all things are okay
+- Update Student Dashboard
+  - Documentation Start Date
+  - Outgoing Date
+    - Both of the changes made to student need to reflect on the Student Dashboard
+- **Inquiry Form**
+  - Admission for
+    - Student
+    - Worker
+  - Have a form and a questionnaire that can be dynamically set.
+  - Once successfully added, show it on the student list.
+- **Admission Form**
+  - Add required information
+  - Show on student list once successful addition
+- **Attendance**
+  - Teachers able to take attendance for specific student group
+  - Mark attendance for students by teacher
+  - Student View their attendance
+- **Exam**
+  - Create examination for specific date
+  - Exam template for mass question answer upload
+  - Student submit their examination on specific date time and receive result of their performance
+- **Document Generation**
+  - Admin uploads document template with placeholders
+  - Based on placeholder and student data, certain data are auto populated
+  - Auto Translation of english to JP based on google translate available
+  - Pre-mapping of certain words to JP language to reuse certain regular words
+- **University/Workplace**
+  - University and Workplace listing 
+  - Auto list matching students to university list based on certain matching conditions and requirements
+- **Event**
+  - **External Exam**
+    - Choose between 3 different options
+      - N5
+      - N4
+      - JLCT
+    - Choose a specific date
+    - Choose Intake Month, Exam date and Application Deadline
+    - Able to upload results of External Examinations of each student
+      - Click on the eye icon on the exam to add the results in a pdf format.
+  - **Internal Exam**
+    - Select Type
+      - N5
+      - N4
+      - JLCT
+    - Select an exam date
+    - Schedule an exam at specific time
+    - Select appropriate Student Group
+    - Select From and To Time
+    - Add any remarks if any
+  - **Events**
+    - Add any random events in case of any
+  - **Results**
+    - Results of students who appeared for examinations are here.
+  - **Message**
+    - We can message the following through the applications - a one way message
+      - Admin → Admin
+      - Admin → Student
+      - Admin → Student Group
+      - Admin → Student Group
+        - The message will have Title, A text message and attachments if any
+
+
+
+
+# <a name="_4wl62zh1htle"></a>Student Dashboard
+- Dashboard
+  - Admission Date ( date enrolled in GAPS)
+  - Intake Month
+  - External Exam (associated with the student group)
+  - Interview Date 
+  - Documentation Start Date
+  - Outgoing Date
+  - Applied University/School Application information
+  - Class Details
+  - Internal Exam Results
+  - Attendance
+- My Information
+  - All information related to the student
+- Upload
+  - Basic Documents
+    - Front side of Citizenship
+    - Back side of Citizenship
+    - Passport
+    - Academic Documents
+      - SLC Marksheet
+      - +2 Marksheet
+      - Bachelor Marks Sheet
+    - Other documents
+- Calendar
+  - Provides information about internal, external examinations and any other additional events (if added)
+- Timeline
+  - Provides timeline of events occurred
+- Class
+  - Resource
+  - Assignment
+  - Courses
+  - Result
+  - Attendance
+  - Fee Structure
+
+# <a name="_upsc8m9cjb1s"></a>Instructor Dashboard
+- Dashboard
+  - Information about his current class
+    - Class name
+    - Student Group Name
+    - Scheduled time and Duration
+    - Start Time
+    - End Time
+  - List of all the edited classes (if any)
+- Student
+  - List of all the students in a specific student group
+- Attendance
+  - Select Student Group (he should be only be able to select to which he is assigned)
+  - Take attendance (it is working as expected)
+    - isLate is working
+- Review
+  - The instructor is able to flag the student.
+
+- Courses
+  - Here only the admin can add, so instructor can only view these items.
+
